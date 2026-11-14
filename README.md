@@ -1,7 +1,12 @@
-# Lissabon Vakantieplanner 4.0
-Upload de inhoud naar de root van je GitHub Pages repository.
+# Lissabon Vakantieplanner 4.1
 
-Nieuw: Ja/Misschien/Nee-voorkeuren, bezienswaardighedenkaarten met foto en website, reisgids, restaurants, aanvullende dagvoorstellen en route-openers voor lopen/taxi/OV.
+Upload de inhoud van deze map naar de root van je GitHub Pages-repository.
 
-Let op: reistijden worden niet in de app uitgelezen. Google Maps toont actuele reistijden na openen. Openingstijden, entreeprijzen en weer zijn nog niet live gekoppeld; controleer deze bij officiële bronnen. Afbeeldingen laden extern vanaf Wikimedia Commons. De planning en voorkeuren worden lokaal op dit apparaat opgeslagen. Versie 3-planning wordt niet automatisch geconverteerd: exporteer die eerst.
-\n## Update 4.1\n- Een bezienswaardigheid kan nog maar op één dag tegelijk staan. Oude dubbele vermeldingen worden bij het openen opgeschoond (de eerste dag blijft behouden).\n- Per dag staat nu een schematische kaart met genummerde locaties en een legenda in bezoekvolgorde. De lijn is een volgorde-indicatie, geen exacte route.\n
+## Nieuw in versie 4.1
+- Een bezienswaardigheid kan nog maar op één dag tegelijk staan. Oude dubbele vermeldingen worden bij het openen opgeschoond; de eerste dag blijft behouden.
+- Onder de dagindeling staat een schematische kaart met genummerde locaties en een legenda in bezoekvolgorde. De lijn geeft de volgorde aan en is geen exacte route.
+
+## Overige informatie
+De app bevat Ja/Misschien/Nee-voorkeuren, bezienswaardighedenkaarten met foto en website, een reisgids, restaurants, aanvullende dagvoorstellen en route-openers voor lopen/taxi/OV.
+
+Reistijden worden niet in de app uitgelezen. Google Maps toont actuele reistijden na openen. Openingstijden, entreeprijzen en weer zijn niet live gekoppeld; controleer deze bij officiële bronnen. Afbeeldingen laden extern vanaf Wikimedia Commons. De planning en voorkeuren worden lokaal op dit apparaat opgeslagen.
