@@ -5,10 +5,11 @@
     "area": "Belém",
     "icon": "🏰",
     "minutes": 60,
-    "description": "Iconische verdedigingstoren aan de Taag. Bekijk ook de omgeving en de promenade.",
-    "category": "Belém",
+    "description": "Iconische verdedigingstoren aan de Taag.",
     "lat": 38.6916,
-    "lng": -9.216
+    "lng": -9.216,
+    "website": "https://www.museusemonumentos.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Torre_de_Bel%C3%A9m.jpg"
   },
   {
     "id": "s2",
@@ -16,10 +17,11 @@
     "area": "Belém",
     "icon": "⛪",
     "minutes": 90,
-    "description": "Indrukwekkend klooster met rijk versierde Manuelstijl-architectuur.",
-    "category": "Belém",
+    "description": "Indrukwekkend klooster in Manuelstijl.",
     "lat": 38.6979,
-    "lng": -9.2066
+    "lng": -9.2066,
+    "website": "https://www.museusemonumentos.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mosteiro_dos_Jeronimos_Lisboa.jpg"
   },
   {
     "id": "s3",
@@ -27,10 +29,11 @@
     "area": "Belém",
     "icon": "⛵",
     "minutes": 45,
-    "description": "Monument aan de ontdekkingsreizen, met uitzicht vanaf het dak.",
-    "category": "Belém",
+    "description": "Monument ter ere van de Portugese ontdekkingsreizen.",
     "lat": 38.6939,
-    "lng": -9.2058
+    "lng": -9.2058,
+    "website": "https://padraodosdescobrimentos.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Padr%C3%A3o_dos_Descobrimentos.jpg"
   },
   {
     "id": "s4",
@@ -38,21 +41,23 @@
     "area": "Belém",
     "icon": "🥮",
     "minutes": 30,
-    "description": "Historische bakkerij; ideaal voor een pauze met de beroemde custardtaartjes.",
-    "category": "Belém",
+    "description": "Historische bakkerij met beroemde custardtaartjes.",
     "lat": 38.6977,
-    "lng": -9.203
+    "lng": -9.203,
+    "website": "https://pasteisdebelem.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pasteis_de_Belem.jpg"
   },
   {
     "id": "s5",
-    "name": "MAAT – Museum of Art, Architecture and Technology",
+    "name": "MAAT",
     "area": "Belém",
     "icon": "🎨",
     "minutes": 75,
-    "description": "Museum aan het water met opvallende moderne architectuur.",
-    "category": "Belém",
+    "description": "Museum voor kunst, architectuur en technologie.",
     "lat": 38.6959,
-    "lng": -9.1957
+    "lng": -9.1957,
+    "website": "https://maat.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Museum_of_Art_Architecture_and_Technology_Lisbon.jpg"
   },
   {
     "id": "s6",
@@ -60,10 +65,11 @@
     "area": "Alcântara",
     "icon": "🏭",
     "minutes": 90,
-    "description": "Creatieve hotspot met winkels, street art, boekhandel en horeca.",
-    "category": "Alcântara",
+    "description": "Creatieve hotspot met winkels, street art en horeca.",
     "lat": 38.7037,
-    "lng": -9.1788
+    "lng": -9.1788,
+    "website": "https://lxfactory.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/LX_Factory_Lisbon.jpg"
   },
   {
     "id": "s7",
@@ -71,10 +77,11 @@
     "area": "Baixa",
     "icon": "🏛️",
     "minutes": 30,
-    "description": "Groot plein aan het water, een van de bekendste plekken van Lissabon.",
-    "category": "Baixa",
+    "description": "Monumentaal plein aan de Taag.",
     "lat": 38.7075,
-    "lng": -9.1364
+    "lng": -9.1364,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Praca_do_Comercio_Lisbon.jpg"
   },
   {
     "id": "s8",
@@ -82,10 +89,11 @@
     "area": "Baixa",
     "icon": "🌇",
     "minutes": 30,
-    "description": "Beklim de triomfboog voor uitzicht over het plein en de rivier.",
-    "category": "Baixa",
+    "description": "Triomfboog met uitzicht over plein en rivier.",
     "lat": 38.7079,
-    "lng": -9.1365
+    "lng": -9.1365,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Arco_da_Rua_Augusta_Lisboa.jpg"
   },
   {
     "id": "s9",
@@ -93,21 +101,23 @@
     "area": "Baixa",
     "icon": "🚠",
     "minutes": 30,
-    "description": "Historische lift en uitzichtpunt in het centrum.",
-    "category": "Baixa",
+    "description": "Historische lift en uitzichtpunt.",
     "lat": 38.712,
-    "lng": -9.139
+    "lng": -9.139,
+    "website": "https://www.carris.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Elevador_de_Santa_Justa_Lisboa.jpg"
   },
   {
     "id": "s10",
-    "name": "Rossio (Praça Dom Pedro IV)",
+    "name": "Rossio",
     "area": "Baixa",
     "icon": "⛲",
     "minutes": 20,
-    "description": "Levendig centraal plein met golvend mozaïek in de bestrating.",
-    "category": "Baixa",
+    "description": "Centraal plein met golvende bestrating.",
     "lat": 38.7138,
-    "lng": -9.1395
+    "lng": -9.1395,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Rossio_Lisbon.jpg"
   },
   {
     "id": "s11",
@@ -115,10 +125,11 @@
     "area": "Chiado",
     "icon": "🏚️",
     "minutes": 45,
-    "description": "Ruïne van een gotische kerk zonder dak, met archeologisch museum.",
-    "category": "Chiado",
+    "description": "Gotische kerkruïne met archeologisch museum.",
     "lat": 38.7113,
-    "lng": -9.1402
+    "lng": -9.1402,
+    "website": "https://www.museuarqueologicodocarmo.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Convento_do_Carmo_Lisbon.jpg"
   },
   {
     "id": "s12",
@@ -126,10 +137,11 @@
     "area": "Chiado",
     "icon": "☕",
     "minutes": 60,
-    "description": "Wandel door elegante winkelstraten, cafés en historische boekwinkels.",
-    "category": "Chiado",
+    "description": "Elegante winkelstraten, cafés en boekwinkels.",
     "lat": 38.7107,
-    "lng": -9.1435
+    "lng": -9.1435,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Chiado_Lisbon.jpg"
   },
   {
     "id": "s13",
@@ -137,10 +149,11 @@
     "area": "Bairro Alto",
     "icon": "🍷",
     "minutes": 60,
-    "description": "Dwaal door smalle straatjes en ontdek de sfeer van deze wijk.",
-    "category": "Bairro Alto",
+    "description": "Historische wijk met smalle straatjes.",
     "lat": 38.713,
-    "lng": -9.145
+    "lng": -9.145,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Bairro_Alto_Lisbon.jpg"
   },
   {
     "id": "s14",
@@ -148,10 +161,11 @@
     "area": "Bairro Alto",
     "icon": "🌅",
     "minutes": 25,
-    "description": "Panoramisch uitzicht over de oude stad en het kasteel.",
-    "category": "Bairro Alto",
+    "description": "Panoramisch uitzicht over de oude stad.",
     "lat": 38.715,
-    "lng": -9.1445
+    "lng": -9.1445,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Miradouro_de_Sao_Pedro_de_Alcantara.jpg"
   },
   {
     "id": "s15",
@@ -159,10 +173,11 @@
     "area": "Alfama",
     "icon": "🏰",
     "minutes": 90,
-    "description": "Kasteel op de heuvel met uitzicht over de daken en de Taag.",
-    "category": "Alfama",
+    "description": "Kasteel op de heuvel met uitzicht over Lissabon.",
     "lat": 38.7139,
-    "lng": -9.1335
+    "lng": -9.1335,
+    "website": "https://castelodesaojorge.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Castelo_de_Sao_Jorge_Lisboa.jpg"
   },
   {
     "id": "s16",
@@ -170,10 +185,11 @@
     "area": "Alfama",
     "icon": "🚶",
     "minutes": 90,
-    "description": "Oude wijk met steegjes, trappen, tegelgevels en fadohuizen.",
-    "category": "Alfama",
+    "description": "Oude wijk met steegjes, trappen en fadohuizen.",
     "lat": 38.711,
-    "lng": -9.128
+    "lng": -9.128,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Alfama_Lisbon.jpg"
   },
   {
     "id": "s17",
@@ -182,9 +198,10 @@
     "icon": "⛪",
     "minutes": 30,
     "description": "De historische kathedraal van Lissabon.",
-    "category": "Alfama",
     "lat": 38.7097,
-    "lng": -9.1325
+    "lng": -9.1325,
+    "website": "https://www.patriarcado-lisboa.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Lisbon_Cathedral.jpg"
   },
   {
     "id": "s18",
@@ -192,10 +209,11 @@
     "area": "Alfama",
     "icon": "📸",
     "minutes": 20,
-    "description": "Bekend uitzichtpunt over Alfama en de rivier.",
-    "category": "Alfama",
+    "description": "Uitzichtpunt over Alfama en de rivier.",
     "lat": 38.7114,
-    "lng": -9.1304
+    "lng": -9.1304,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Miradouro_das_Portas_do_Sol.jpg"
   },
   {
     "id": "s19",
@@ -203,10 +221,11 @@
     "area": "Graça",
     "icon": "🌄",
     "minutes": 30,
-    "description": "Een van de mooiste panorama's over de stad.",
-    "category": "Graça",
+    "description": "Panorama over de stad.",
     "lat": 38.7193,
-    "lng": -9.1328
+    "lng": -9.1328,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Miradouro_da_Senhora_do_Monte.jpg"
   },
   {
     "id": "s20",
@@ -214,10 +233,11 @@
     "area": "Graça",
     "icon": "🧺",
     "minutes": 60,
-    "description": "Vlooienmarkt bij het Pantheon; vooral op dinsdag en zaterdag.",
-    "category": "Graça",
+    "description": "Vlooienmarkt, vooral dinsdag en zaterdag.",
     "lat": 38.7156,
-    "lng": -9.1258
+    "lng": -9.1258,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Feira_da_Ladra_Lisbon.jpg"
   },
   {
     "id": "s21",
@@ -226,20 +246,22 @@
     "icon": "🏛️",
     "minutes": 45,
     "description": "Monumentaal nationaal pantheon met dakterras.",
-    "category": "Graça",
     "lat": 38.7142,
-    "lng": -9.1237
+    "lng": -9.1237,
+    "website": "https://www.patrimoniocultural.gov.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Pantheon_Lisbon.jpg"
   },
   {
     "id": "s22",
-    "name": "Museu do Azulejo",
+    "name": "Museu Nacional do Azulejo",
     "area": "Oost-Lissabon",
     "icon": "🟦",
     "minutes": 75,
-    "description": "Museum over de Portugese tegelkunst in een voormalig klooster.",
-    "category": "Oost-Lissabon",
+    "description": "Museum over Portugese tegelkunst.",
     "lat": 38.7254,
-    "lng": -9.1137
+    "lng": -9.1137,
+    "website": "https://www.museunacionaldoazulejo.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Museu_Nacional_do_Azulejo_Lisboa.jpg"
   },
   {
     "id": "s23",
@@ -247,10 +269,11 @@
     "area": "Parque das Nações",
     "icon": "🐠",
     "minutes": 120,
-    "description": "Groot aquarium met ecosystemen uit de wereldzeeën.",
-    "category": "Parque das Nações",
+    "description": "Aquarium met ecosystemen uit de wereldzeeën.",
     "lat": 38.7636,
-    "lng": -9.0935
+    "lng": -9.0935,
+    "website": "https://www.oceanario.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Oceanario_de_Lisboa.jpg"
   },
   {
     "id": "s24",
@@ -258,10 +281,11 @@
     "area": "Parque das Nações",
     "icon": "🚡",
     "minutes": 30,
-    "description": "Kabelbaan langs de Taag met uitzicht over Parque das Nações.",
-    "category": "Parque das Nações",
+    "description": "Kabelbaan langs de Taag.",
     "lat": 38.7616,
-    "lng": -9.095
+    "lng": -9.095,
+    "website": "https://www.telecabinelisboa.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Telecabine_Lisboa.jpg"
   },
   {
     "id": "s25",
@@ -269,10 +293,11 @@
     "area": "Parque das Nações",
     "icon": "🌿",
     "minutes": 60,
-    "description": "Moderne wijk aan het water met architectuur en wandelpromenade.",
-    "category": "Parque das Nações",
+    "description": "Moderne wijk aan het water.",
     "lat": 38.7675,
-    "lng": -9.095
+    "lng": -9.095,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque_das_Nacoes_Lisbon.jpg"
   },
   {
     "id": "s27",
@@ -280,10 +305,11 @@
     "area": "Avenidas Novas",
     "icon": "🖼️",
     "minutes": 120,
-    "description": "Sterke collectie kunst in een rustige museumomgeving.",
-    "category": "Avenidas Novas",
+    "description": "Kunstcollectie in een rustige museumomgeving.",
     "lat": 38.7375,
-    "lng": -9.1536
+    "lng": -9.1536,
+    "website": "https://gulbenkian.pt/museu/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Calouste_Gulbenkian_Museum_Lisbon.jpg"
   },
   {
     "id": "s28",
@@ -291,10 +317,11 @@
     "area": "Centrum",
     "icon": "🌳",
     "minutes": 45,
-    "description": "Groen stadspark met uitzicht richting de Taag.",
-    "category": "Centrum",
+    "description": "Stadspark met uitzicht richting de Taag.",
     "lat": 38.7285,
-    "lng": -9.15
+    "lng": -9.15,
+    "website": "https://www.visitlisboa.com/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Parque_Eduardo_VII_Lisbon.jpg"
   },
   {
     "id": "s29",
@@ -302,10 +329,11 @@
     "area": "Cais do Sodré",
     "icon": "🍽️",
     "minutes": 75,
-    "description": "Foodhal met veel Portugese en internationale eetkraampjes.",
-    "category": "Cais do Sodré",
+    "description": "Foodhal met Portugese en internationale eetkraampjes.",
     "lat": 38.7068,
-    "lng": -9.1457
+    "lng": -9.1457,
+    "website": "https://www.timeoutmarket.com/lisboa/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Mercado_da_Ribeira_Lisbon.jpg"
   },
   {
     "id": "s30",
@@ -313,10 +341,11 @@
     "area": "Almada",
     "icon": "🗿",
     "minutes": 90,
-    "description": "Monument aan de overkant van de rivier met uitzicht op Lissabon.",
-    "category": "Almada",
+    "description": "Monument aan de overkant van de rivier.",
     "lat": 38.678,
-    "lng": -9.171
+    "lng": -9.171,
+    "website": "https://www.cristorei.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cristo_Rei_Almada.jpg"
   },
   {
     "id": "s31",
@@ -324,20 +353,34 @@
     "area": "Almada",
     "icon": "⛴️",
     "minutes": 60,
-    "description": "Leuke waterkant aan de zuidoever; bereikbaar met de veerboot.",
-    "category": "Almada",
+    "description": "Waterkant aan de zuidoever; bereikbaar met de veerboot.",
     "lat": 38.6865,
-    "lng": -9.1482
+    "lng": -9.1482,
+    "website": "https://www.transtejo.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Cacilhas_Lisbon.jpg"
   },
   {
     "id": "s32",
-    "name": "Estádio da Luz – Benfica",
+    "name": "Estádio da Luz",
     "area": "Benfica",
     "icon": "⚽",
     "minutes": 90,
-    "description": "Stadiontour en museum van SL Benfica; controleer vooraf de beschikbaarheid.",
-    "category": "Benfica",
+    "description": "Stadiontour en museum van SL Benfica.",
     "lat": 38.7528,
-    "lng": -9.1847
+    "lng": -9.1847,
+    "website": "https://www.slbenfica.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Estadio_da_Luz_Lisbon.jpg"
+  },
+  {
+    "id": "s33",
+    "name": "Museu Banksy Lisboa",
+    "area": "Avenidas Novas",
+    "icon": "🎨",
+    "minutes": 75,
+    "description": "Tentoonstelling met reproducties en installaties rond Banksy; niet door Banksy geautoriseerd.",
+    "lat": 38.7312,
+    "lng": -9.1464,
+    "website": "https://www.museubanksy.pt/",
+    "photo": "https://commons.wikimedia.org/wiki/Special:FilePath/Banksy_Girl_with_Balloon.jpg"
   }
 ]
