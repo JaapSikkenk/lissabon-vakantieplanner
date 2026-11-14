@@ -6,7 +6,9 @@
     "icon": "🏰",
     "minutes": 60,
     "description": "Iconische verdedigingstoren aan de Taag. Bekijk ook de omgeving en de promenade.",
-    "category": "Belém"
+    "category": "Belém",
+    "lat": 38.6916,
+    "lng": -9.216
   },
   {
     "id": "s2",
@@ -15,7 +17,9 @@
     "icon": "⛪",
     "minutes": 90,
     "description": "Indrukwekkend klooster met rijk versierde Manuelstijl-architectuur.",
-    "category": "Belém"
+    "category": "Belém",
+    "lat": 38.6979,
+    "lng": -9.2066
   },
   {
     "id": "s3",
@@ -24,7 +28,9 @@
     "icon": "⛵",
     "minutes": 45,
     "description": "Monument aan de ontdekkingsreizen, met uitzicht vanaf het dak.",
-    "category": "Belém"
+    "category": "Belém",
+    "lat": 38.6939,
+    "lng": -9.2058
   },
   {
     "id": "s4",
@@ -33,7 +39,9 @@
     "icon": "🥮",
     "minutes": 30,
     "description": "Historische bakkerij; ideaal voor een pauze met de beroemde custardtaartjes.",
-    "category": "Belém"
+    "category": "Belém",
+    "lat": 38.6977,
+    "lng": -9.203
   },
   {
     "id": "s5",
@@ -42,7 +50,9 @@
     "icon": "🎨",
     "minutes": 75,
     "description": "Museum aan het water met opvallende moderne architectuur.",
-    "category": "Belém"
+    "category": "Belém",
+    "lat": 38.6959,
+    "lng": -9.1957
   },
   {
     "id": "s6",
@@ -51,7 +61,9 @@
     "icon": "🏭",
     "minutes": 90,
     "description": "Creatieve hotspot met winkels, street art, boekhandel en horeca.",
-    "category": "Alcântara"
+    "category": "Alcântara",
+    "lat": 38.7037,
+    "lng": -9.1788
   },
   {
     "id": "s7",
@@ -60,7 +72,9 @@
     "icon": "🏛️",
     "minutes": 30,
     "description": "Groot plein aan het water, een van de bekendste plekken van Lissabon.",
-    "category": "Baixa"
+    "category": "Baixa",
+    "lat": 38.7075,
+    "lng": -9.1364
   },
   {
     "id": "s8",
@@ -69,7 +83,9 @@
     "icon": "🌇",
     "minutes": 30,
     "description": "Beklim de triomfboog voor uitzicht over het plein en de rivier.",
-    "category": "Baixa"
+    "category": "Baixa",
+    "lat": 38.7079,
+    "lng": -9.1365
   },
   {
     "id": "s9",
@@ -78,7 +94,9 @@
     "icon": "🚠",
     "minutes": 30,
     "description": "Historische lift en uitzichtpunt in het centrum.",
-    "category": "Baixa"
+    "category": "Baixa",
+    "lat": 38.712,
+    "lng": -9.139
   },
   {
     "id": "s10",
@@ -87,7 +105,9 @@
     "icon": "⛲",
     "minutes": 20,
     "description": "Levendig centraal plein met golvend mozaïek in de bestrating.",
-    "category": "Baixa"
+    "category": "Baixa",
+    "lat": 38.7138,
+    "lng": -9.1395
   },
   {
     "id": "s11",
@@ -96,7 +116,9 @@
     "icon": "🏚️",
     "minutes": 45,
     "description": "Ruïne van een gotische kerk zonder dak, met archeologisch museum.",
-    "category": "Chiado"
+    "category": "Chiado",
+    "lat": 38.7113,
+    "lng": -9.1402
   },
   {
     "id": "s12",
@@ -105,7 +127,9 @@
     "icon": "☕",
     "minutes": 60,
     "description": "Wandel door elegante winkelstraten, cafés en historische boekwinkels.",
-    "category": "Chiado"
+    "category": "Chiado",
+    "lat": 38.7107,
+    "lng": -9.1435
   },
   {
     "id": "s13",
@@ -114,7 +138,9 @@
     "icon": "🍷",
     "minutes": 60,
     "description": "Dwaal door smalle straatjes en ontdek de sfeer van deze wijk.",
-    "category": "Bairro Alto"
+    "category": "Bairro Alto",
+    "lat": 38.713,
+    "lng": -9.145
   },
   {
     "id": "s14",
@@ -123,7 +149,9 @@
     "icon": "🌅",
     "minutes": 25,
     "description": "Panoramisch uitzicht over de oude stad en het kasteel.",
-    "category": "Bairro Alto"
+    "category": "Bairro Alto",
+    "lat": 38.715,
+    "lng": -9.1445
   },
   {
     "id": "s15",
@@ -132,7 +160,9 @@
     "icon": "🏰",
     "minutes": 90,
     "description": "Kasteel op de heuvel met uitzicht over de daken en de Taag.",
-    "category": "Alfama"
+    "category": "Alfama",
+    "lat": 38.7139,
+    "lng": -9.1335
   },
   {
     "id": "s16",
@@ -141,7 +171,9 @@
     "icon": "🚶",
     "minutes": 90,
     "description": "Oude wijk met steegjes, trappen, tegelgevels en fadohuizen.",
-    "category": "Alfama"
+    "category": "Alfama",
+    "lat": 38.711,
+    "lng": -9.128
   },
   {
     "id": "s17",
@@ -150,7 +182,9 @@
     "icon": "⛪",
     "minutes": 30,
     "description": "De historische kathedraal van Lissabon.",
-    "category": "Alfama"
+    "category": "Alfama",
+    "lat": 38.7097,
+    "lng": -9.1325
   },
   {
     "id": "s18",
@@ -159,7 +193,9 @@
     "icon": "📸",
     "minutes": 20,
     "description": "Bekend uitzichtpunt over Alfama en de rivier.",
-    "category": "Alfama"
+    "category": "Alfama",
+    "lat": 38.7114,
+    "lng": -9.1304
   },
   {
     "id": "s19",
@@ -168,7 +204,9 @@
     "icon": "🌄",
     "minutes": 30,
     "description": "Een van de mooiste panorama's over de stad.",
-    "category": "Graça"
+    "category": "Graça",
+    "lat": 38.7193,
+    "lng": -9.1328
   },
   {
     "id": "s20",
@@ -177,7 +215,9 @@
     "icon": "🧺",
     "minutes": 60,
     "description": "Vlooienmarkt bij het Pantheon; vooral op dinsdag en zaterdag.",
-    "category": "Graça"
+    "category": "Graça",
+    "lat": 38.7156,
+    "lng": -9.1258
   },
   {
     "id": "s21",
@@ -186,7 +226,9 @@
     "icon": "🏛️",
     "minutes": 45,
     "description": "Monumentaal nationaal pantheon met dakterras.",
-    "category": "Graça"
+    "category": "Graça",
+    "lat": 38.7142,
+    "lng": -9.1237
   },
   {
     "id": "s22",
@@ -195,7 +237,9 @@
     "icon": "🟦",
     "minutes": 75,
     "description": "Museum over de Portugese tegelkunst in een voormalig klooster.",
-    "category": "Oost-Lissabon"
+    "category": "Oost-Lissabon",
+    "lat": 38.7254,
+    "lng": -9.1137
   },
   {
     "id": "s23",
@@ -204,7 +248,9 @@
     "icon": "🐠",
     "minutes": 120,
     "description": "Groot aquarium met ecosystemen uit de wereldzeeën.",
-    "category": "Parque das Nações"
+    "category": "Parque das Nações",
+    "lat": 38.7636,
+    "lng": -9.0935
   },
   {
     "id": "s24",
@@ -213,7 +259,9 @@
     "icon": "🚡",
     "minutes": 30,
     "description": "Kabelbaan langs de Taag met uitzicht over Parque das Nações.",
-    "category": "Parque das Nações"
+    "category": "Parque das Nações",
+    "lat": 38.7616,
+    "lng": -9.095
   },
   {
     "id": "s25",
@@ -222,16 +270,9 @@
     "icon": "🌿",
     "minutes": 60,
     "description": "Moderne wijk aan het water met architectuur en wandelpromenade.",
-    "category": "Parque das Nações"
-  },
-  {
-    "id": "s26",
-    "name": "Museu Nacional do Azulejo",
-    "area": "Oost-Lissabon",
-    "icon": "🟦",
-    "minutes": 75,
-    "description": "Ontdek de geschiedenis van de Portugese azulejo-tegels.",
-    "category": "Oost-Lissabon"
+    "category": "Parque das Nações",
+    "lat": 38.7675,
+    "lng": -9.095
   },
   {
     "id": "s27",
@@ -240,7 +281,9 @@
     "icon": "🖼️",
     "minutes": 120,
     "description": "Sterke collectie kunst in een rustige museumomgeving.",
-    "category": "Avenidas Novas"
+    "category": "Avenidas Novas",
+    "lat": 38.7375,
+    "lng": -9.1536
   },
   {
     "id": "s28",
@@ -249,7 +292,9 @@
     "icon": "🌳",
     "minutes": 45,
     "description": "Groen stadspark met uitzicht richting de Taag.",
-    "category": "Centrum"
+    "category": "Centrum",
+    "lat": 38.7285,
+    "lng": -9.15
   },
   {
     "id": "s29",
@@ -258,7 +303,9 @@
     "icon": "🍽️",
     "minutes": 75,
     "description": "Foodhal met veel Portugese en internationale eetkraampjes.",
-    "category": "Cais do Sodré"
+    "category": "Cais do Sodré",
+    "lat": 38.7068,
+    "lng": -9.1457
   },
   {
     "id": "s30",
@@ -267,7 +314,9 @@
     "icon": "🗿",
     "minutes": 90,
     "description": "Monument aan de overkant van de rivier met uitzicht op Lissabon.",
-    "category": "Almada"
+    "category": "Almada",
+    "lat": 38.678,
+    "lng": -9.171
   },
   {
     "id": "s31",
@@ -276,7 +325,9 @@
     "icon": "⛴️",
     "minutes": 60,
     "description": "Leuke waterkant aan de zuidoever; bereikbaar met de veerboot.",
-    "category": "Almada"
+    "category": "Almada",
+    "lat": 38.6865,
+    "lng": -9.1482
   },
   {
     "id": "s32",
@@ -285,6 +336,8 @@
     "icon": "⚽",
     "minutes": 90,
     "description": "Stadiontour en museum van SL Benfica; controleer vooraf de beschikbaarheid.",
-    "category": "Benfica"
+    "category": "Benfica",
+    "lat": 38.7528,
+    "lng": -9.1847
   }
 ]

@@ -8,6 +8,7 @@
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icons/icon.svg">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="">
   <link rel="stylesheet" href="styles.css">
   <title>Lissabon Vakantieplanner</title>
 </head>
@@ -30,6 +31,7 @@
     <nav class="tabs" aria-label="Hoofdnavigatie">
       <button class="tab active" data-tab="planner">Weekplanning</button>
       <button class="tab" data-tab="discover">Ontdekken <span id="remainingCount" class="count">0</span></button>
+      <button class="tab" data-tab="map">Kaart</button>
     </nav>
 
     <section id="plannerView" class="view">
@@ -40,7 +42,7 @@
       <div id="dayPicker" class="day-picker" aria-label="Kies een vakantiedag"></div>
       <div class="planner-tools">
         <div><strong id="selectedDayTitle">Maandag 23 november</strong><small id="dayStats">Nog niets gepland</small></div>
-        <button id="addCustomBtn" class="primary-btn">＋ Activiteit</button>
+        <div class="planner-actions"><button id="autoPlanBtn" class="secondary-btn">✦ Maak dagvoorstel</button><button id="addCustomBtn" class="primary-btn">＋ Activiteit</button></div>
       </div>
       <div class="hint">Tik op een bezienswaardigheid om deze in te plannen. Op een computer kun je ze ook naar een tijdslot slepen.</div>
       <div class="timeline-wrap">
@@ -63,6 +65,14 @@
           <div id="unplannedList"></div>
         </aside>
       </div>
+    </section>
+
+    <section id="mapView" class="view" hidden>
+      <div class="section-head"><div><p class="eyebrow">ONTDEK DE STAD</p><h2>Kaart van Lissabon</h2></div><span class="subtle">Plekken en dagroutes</span></div>
+      <div class="map-toolbar"><label>Toon op de kaart<select id="mapDaySelect"><option value="all">Alle bezienswaardigheden</option></select></label><button id="openRouteBtn" class="primary-btn" disabled>Open dagroute in Google Maps ↗</button></div>
+      <div id="lisbonMap" class="map-canvas"></div>
+      <p class="map-footnote">De pinnen zijn bedoeld als plaatsaanduiding. De verbindingslijn toont de volgorde van je dagplanning, niet een exacte wandelroute. Gebruik Google Maps voor actuele routebeschrijvingen.</p>
+      <div id="mapSummary" class="map-summary">Kies een dag om de ingeplande locaties en volgorde te bekijken.</div>
     </section>
   </main>
 
@@ -90,6 +100,7 @@
   </dialog>
 
   <div id="toast" role="status" aria-live="polite"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
   <script src="app.js"></script>
 </body>
 </html>

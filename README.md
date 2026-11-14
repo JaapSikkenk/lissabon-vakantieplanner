@@ -26,3 +26,15 @@ De planning wordt alleen in de lokale opslag van de browser op dit apparaat opge
 
 ## Let op
 Bezoektijden zijn richtlijnen. Controleer actuele openingstijden, sluitingsdagen, tickets en eventuele reserveringsplicht vóór vertrek. De lijst bevat een dubbele tegelmuseumvermelding (historische/alternatieve naam) die je desgewenst kunt verwijderen of samenvoegen.
+
+## Versie 3.0
+- Interactieve OpenStreetMap-kaart met alle bezienswaardigheden.
+- Dagfilter met routevolgorde en knop om de dagroute in Google Maps te openen.
+- Automatisch dagvoorstel met aankomst op maandagavond, vijf themadagen en een vrije zondag.
+- Per verplaatsing tussen twee bezienswaardigheden directe routeopties in Google Maps: lopen, taxi/auto en openbaar vervoer. Google Maps toont de actuele geschatte reistijd en route.
+- De kaart en routeopties gebruiken internet; de planning blijft lokaal opgeslagen.
+- Kaartpinnen zijn benaderende locaties; de stippellijn is een volgorde-indicatie, geen berekende wandelroute.
+
+
+## Reistijden
+De app vraagt geen betaalde route-API aan. Daarom opent elke vervoersoptie Google Maps, waar de actuele route en reistijd voor lopen, taxi/auto of OV worden berekend. De app verzint dus geen reistijden op basis van hemelsbrede afstanden.
