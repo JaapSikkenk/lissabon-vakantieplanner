@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#174b46">
+  <meta name="description" content="Je persoonlijke vakantieplanner voor Lissabon, 23 tot en met 29 november 2026.">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/icon.svg">
+  <link rel="stylesheet" href="styles.css">
+  <title>Lissabon Vakantieplanner</title>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand"><span class="brand-mark">✦</span><div><strong>Lissabon</strong><small>jouw vakantieplanner</small></div></div>
+    <button id="installBtn" class="install-btn" hidden>＋ Installeren</button>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow">PORTUGAL · 23—29 NOVEMBER 2026</p>
+        <h1>Maak van je week<br>in Lissabon iets moois.</h1>
+        <p>Bewaar bezienswaardigheden en plan je dagen per halfuur.</p>
+      </div>
+      <div class="hero-art" aria-hidden="true"><span>☀</span><b> L I S B O A </b><i>〰〰〰</i></div>
+    </section>
+
+    <nav class="tabs" aria-label="Hoofdnavigatie">
+      <button class="tab active" data-tab="planner">Weekplanning</button>
+      <button class="tab" data-tab="discover">Ontdekken <span id="remainingCount" class="count">0</span></button>
+    </nav>
+
+    <section id="plannerView" class="view">
+      <div class="section-head">
+        <div><p class="eyebrow">JOUW REIS</p><h2>Weekplanning</h2></div>
+        <button id="clearDayBtn" class="quiet-btn">Dag leegmaken</button>
+      </div>
+      <div id="dayPicker" class="day-picker" aria-label="Kies een vakantiedag"></div>
+      <div class="planner-tools">
+        <div><strong id="selectedDayTitle">Maandag 23 november</strong><small id="dayStats">Nog niets gepland</small></div>
+        <button id="addCustomBtn" class="primary-btn">＋ Activiteit</button>
+      </div>
+      <div class="hint">Tik op een bezienswaardigheid om deze in te plannen. Op een computer kun je ze ook naar een tijdslot slepen.</div>
+      <div class="timeline-wrap">
+        <div id="timeline" class="timeline"></div>
+      </div>
+    </section>
+
+    <section id="discoverView" class="view" hidden>
+      <div class="section-head">
+        <div><p class="eyebrow">ONTDEK DE STAD</p><h2>Bezienswaardigheden</h2></div>
+        <span class="subtle" id="sightTotal">0 plekken</span>
+      </div>
+      <label class="searchbox"><span>⌕</span><input id="searchInput" type="search" placeholder="Zoek een plek of wijk…"></label>
+      <div id="categoryFilters" class="filters"></div>
+      <div class="discover-layout">
+        <div id="sightList" class="sight-list"></div>
+        <aside class="planned-panel">
+          <h3>Nog in te plannen</h3>
+          <p>Je favorieten die nog geen plek in je week hebben.</p>
+          <div id="unplannedList"></div>
+        </aside>
+      </div>
+    </section>
+  </main>
+
+  <footer><span>Feito com ♥ voor jouw reis</span><button id="exportBtn" class="text-btn">Exporteer planning</button></footer>
+
+  <dialog id="scheduleDialog">
+    <form method="dialog" id="scheduleForm">
+      <div class="dialog-head"><div><p class="eyebrow">INPLANNEN</p><h2 id="dialogTitle">Activiteit</h2></div><button class="close-btn" value="cancel" aria-label="Sluiten">×</button></div>
+      <label>Dag<select id="dialogDay"></select></label>
+      <label>Begintijd<select id="dialogTime"></select></label>
+      <p id="dialogDuration" class="dialog-note"></p>
+      <div class="dialog-actions"><button value="cancel" class="quiet-btn">Annuleren</button><button id="confirmSchedule" value="default" class="primary-btn">Inplannen</button></div>
+    </form>
+  </dialog>
+
+  <dialog id="customDialog">
+    <form method="dialog" id="customForm">
+      <div class="dialog-head"><div><p class="eyebrow">EIGEN ACTIVITEIT</p><h2>Voeg iets toe</h2></div><button class="close-btn" value="cancel" aria-label="Sluiten">×</button></div>
+      <label>Naam<input id="customName" required maxlength="70" placeholder="Bijvoorbeeld: lunch bij Time Out Market"></label>
+      <label>Duur<select id="customDuration"><option value="30">30 minuten</option><option value="60" selected>1 uur</option><option value="90">1,5 uur</option><option value="120">2 uur</option><option value="180">3 uur</option></select></label>
+      <label>Dag<select id="customDay"></select></label>
+      <label>Begintijd<select id="customTime"></select></label>
+      <div class="dialog-actions"><button value="cancel" class="quiet-btn">Annuleren</button><button id="saveCustom" value="default" class="primary-btn">Toevoegen</button></div>
+    </form>
+  </dialog>
+
+  <div id="toast" role="status" aria-live="polite"></div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,290 @@
+[
+  {
+    "id": "s1",
+    "name": "Toren van Belém",
+    "area": "Belém",
+    "icon": "🏰",
+    "minutes": 60,
+    "description": "Iconische verdedigingstoren aan de Taag. Bekijk ook de omgeving en de promenade.",
+    "category": "Belém"
+  },
+  {
+    "id": "s2",
+    "name": "Mosteiro dos Jerónimos",
+    "area": "Belém",
+    "icon": "⛪",
+    "minutes": 90,
+    "description": "Indrukwekkend klooster met rijk versierde Manuelstijl-architectuur.",
+    "category": "Belém"
+  },
+  {
+    "id": "s3",
+    "name": "Padrão dos Descobrimentos",
+    "area": "Belém",
+    "icon": "⛵",
+    "minutes": 45,
+    "description": "Monument aan de ontdekkingsreizen, met uitzicht vanaf het dak.",
+    "category": "Belém"
+  },
+  {
+    "id": "s4",
+    "name": "Pastéis de Belém",
+    "area": "Belém",
+    "icon": "🥮",
+    "minutes": 30,
+    "description": "Historische bakkerij; ideaal voor een pauze met de beroemde custardtaartjes.",
+    "category": "Belém"
+  },
+  {
+    "id": "s5",
+    "name": "MAAT – Museum of Art, Architecture and Technology",
+    "area": "Belém",
+    "icon": "🎨",
+    "minutes": 75,
+    "description": "Museum aan het water met opvallende moderne architectuur.",
+    "category": "Belém"
+  },
+  {
+    "id": "s6",
+    "name": "LX Factory",
+    "area": "Alcântara",
+    "icon": "🏭",
+    "minutes": 90,
+    "description": "Creatieve hotspot met winkels, street art, boekhandel en horeca.",
+    "category": "Alcântara"
+  },
+  {
+    "id": "s7",
+    "name": "Praça do Comércio",
+    "area": "Baixa",
+    "icon": "🏛️",
+    "minutes": 30,
+    "description": "Groot plein aan het water, een van de bekendste plekken van Lissabon.",
+    "category": "Baixa"
+  },
+  {
+    "id": "s8",
+    "name": "Arco da Rua Augusta",
+    "area": "Baixa",
+    "icon": "🌇",
+    "minutes": 30,
+    "description": "Beklim de triomfboog voor uitzicht over het plein en de rivier.",
+    "category": "Baixa"
+  },
+  {
+    "id": "s9",
+    "name": "Elevador de Santa Justa",
+    "area": "Baixa",
+    "icon": "🚠",
+    "minutes": 30,
+    "description": "Historische lift en uitzichtpunt in het centrum.",
+    "category": "Baixa"
+  },
+  {
+    "id": "s10",
+    "name": "Rossio (Praça Dom Pedro IV)",
+    "area": "Baixa",
+    "icon": "⛲",
+    "minutes": 20,
+    "description": "Levendig centraal plein met golvend mozaïek in de bestrating.",
+    "category": "Baixa"
+  },
+  {
+    "id": "s11",
+    "name": "Convento do Carmo",
+    "area": "Chiado",
+    "icon": "🏚️",
+    "minutes": 45,
+    "description": "Ruïne van een gotische kerk zonder dak, met archeologisch museum.",
+    "category": "Chiado"
+  },
+  {
+    "id": "s12",
+    "name": "Chiado",
+    "area": "Chiado",
+    "icon": "☕",
+    "minutes": 60,
+    "description": "Wandel door elegante winkelstraten, cafés en historische boekwinkels.",
+    "category": "Chiado"
+  },
+  {
+    "id": "s13",
+    "name": "Bairro Alto",
+    "area": "Bairro Alto",
+    "icon": "🍷",
+    "minutes": 60,
+    "description": "Dwaal door smalle straatjes en ontdek de sfeer van deze wijk.",
+    "category": "Bairro Alto"
+  },
+  {
+    "id": "s14",
+    "name": "Miradouro de São Pedro de Alcântara",
+    "area": "Bairro Alto",
+    "icon": "🌅",
+    "minutes": 25,
+    "description": "Panoramisch uitzicht over de oude stad en het kasteel.",
+    "category": "Bairro Alto"
+  },
+  {
+    "id": "s15",
+    "name": "Castelo de São Jorge",
+    "area": "Alfama",
+    "icon": "🏰",
+    "minutes": 90,
+    "description": "Kasteel op de heuvel met uitzicht over de daken en de Taag.",
+    "category": "Alfama"
+  },
+  {
+    "id": "s16",
+    "name": "Alfama",
+    "area": "Alfama",
+    "icon": "🚶",
+    "minutes": 90,
+    "description": "Oude wijk met steegjes, trappen, tegelgevels en fadohuizen.",
+    "category": "Alfama"
+  },
+  {
+    "id": "s17",
+    "name": "Sé de Lisboa",
+    "area": "Alfama",
+    "icon": "⛪",
+    "minutes": 30,
+    "description": "De historische kathedraal van Lissabon.",
+    "category": "Alfama"
+  },
+  {
+    "id": "s18",
+    "name": "Miradouro das Portas do Sol",
+    "area": "Alfama",
+    "icon": "📸",
+    "minutes": 20,
+    "description": "Bekend uitzichtpunt over Alfama en de rivier.",
+    "category": "Alfama"
+  },
+  {
+    "id": "s19",
+    "name": "Miradouro da Senhora do Monte",
+    "area": "Graça",
+    "icon": "🌄",
+    "minutes": 30,
+    "description": "Een van de mooiste panorama's over de stad.",
+    "category": "Graça"
+  },
+  {
+    "id": "s20",
+    "name": "Feira da Ladra",
+    "area": "Graça",
+    "icon": "🧺",
+    "minutes": 60,
+    "description": "Vlooienmarkt bij het Pantheon; vooral op dinsdag en zaterdag.",
+    "category": "Graça"
+  },
+  {
+    "id": "s21",
+    "name": "Panteão Nacional",
+    "area": "Graça",
+    "icon": "🏛️",
+    "minutes": 45,
+    "description": "Monumentaal nationaal pantheon met dakterras.",
+    "category": "Graça"
+  },
+  {
+    "id": "s22",
+    "name": "Museu do Azulejo",
+    "area": "Oost-Lissabon",
+    "icon": "🟦",
+    "minutes": 75,
+    "description": "Museum over de Portugese tegelkunst in een voormalig klooster.",
+    "category": "Oost-Lissabon"
+  },
+  {
+    "id": "s23",
+    "name": "Oceanário de Lisboa",
+    "area": "Parque das Nações",
+    "icon": "🐠",
+    "minutes": 120,
+    "description": "Groot aquarium met ecosystemen uit de wereldzeeën.",
+    "category": "Parque das Nações"
+  },
+  {
+    "id": "s24",
+    "name": "Telecabine Lisboa",
+    "area": "Parque das Nações",
+    "icon": "🚡",
+    "minutes": 30,
+    "description": "Kabelbaan langs de Taag met uitzicht over Parque das Nações.",
+    "category": "Parque das Nações"
+  },
+  {
+    "id": "s25",
+    "name": "Parque das Nações",
+    "area": "Parque das Nações",
+    "icon": "🌿",
+    "minutes": 60,
+    "description": "Moderne wijk aan het water met architectuur en wandelpromenade.",
+    "category": "Parque das Nações"
+  },
+  {
+    "id": "s26",
+    "name": "Museu Nacional do Azulejo",
+    "area": "Oost-Lissabon",
+    "icon": "🟦",
+    "minutes": 75,
+    "description": "Ontdek de geschiedenis van de Portugese azulejo-tegels.",
+    "category": "Oost-Lissabon"
+  },
+  {
+    "id": "s27",
+    "name": "Gulbenkian Museum",
+    "area": "Avenidas Novas",
+    "icon": "🖼️",
+    "minutes": 120,
+    "description": "Sterke collectie kunst in een rustige museumomgeving.",
+    "category": "Avenidas Novas"
+  },
+  {
+    "id": "s28",
+    "name": "Parque Eduardo VII",
+    "area": "Centrum",
+    "icon": "🌳",
+    "minutes": 45,
+    "description": "Groen stadspark met uitzicht richting de Taag.",
+    "category": "Centrum"
+  },
+  {
+    "id": "s29",
+    "name": "Time Out Market",
+    "area": "Cais do Sodré",
+    "icon": "🍽️",
+    "minutes": 75,
+    "description": "Foodhal met veel Portugese en internationale eetkraampjes.",
+    "category": "Cais do Sodré"
+  },
+  {
+    "id": "s30",
+    "name": "Cristo Rei",
+    "area": "Almada",
+    "icon": "🗿",
+    "minutes": 90,
+    "description": "Monument aan de overkant van de rivier met uitzicht op Lissabon.",
+    "category": "Almada"
+  },
+  {
+    "id": "s31",
+    "name": "Cacilhas",
+    "area": "Almada",
+    "icon": "⛴️",
+    "minutes": 60,
+    "description": "Leuke waterkant aan de zuidoever; bereikbaar met de veerboot.",
+    "category": "Almada"
+  },
+  {
+    "id": "s32",
+    "name": "Estádio da Luz – Benfica",
+    "area": "Benfica",
+    "icon": "⚽",
+    "minutes": 90,
+    "description": "Stadiontour en museum van SL Benfica; controleer vooraf de beschikbaarheid.",
+    "category": "Benfica"
+  }
+]
